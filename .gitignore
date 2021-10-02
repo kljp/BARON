@@ -1,0 +1,8 @@
+.idea/
+cmake-build-debug/
+data/
+*.o
+src/main
+src/baron
+src/vcsr/vcsr
+CMakeLists.txt
